@@ -1,4 +1,4 @@
-# Mapaches
+# Clases
 Repositorio con los apuntes de los módulos impartidos
 ## Acceso a módulos
 ### 1º SMR
