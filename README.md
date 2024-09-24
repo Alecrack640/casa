@@ -1,9 +1,7 @@
-# Clases
-Repositorio con los apuntes de los módulos impartidos
-## Acceso a módulos
-### 1º SMR
-* [RDE - Redes de área local](rde/README.md)
-#### 2º SMR
-* [SRC - Servicios en red](src/README.md)
-### 1ª ASIR
-* [LND - Lenguaje de marcas y SGI](lnd/README.md)
+# Mapaches
+
+* [Como viven los mapaches](rde/README.md)
+#### Mapachito
+* [Se puede tener e casa?](src/README.md)
+### mapacha
+* [Te puede pegar la rabia? ](lnd/README.md)
