@@ -1,6 +1,6 @@
-title: [Apuntes Clase]
-description: [Curso 2024-25 - IES El Rincón]
-show_downloads: ["True"]
-remote_theme: jekyll-theme-cayman
+title: "Mapaches"
+description: "Curso 2024-25 - IES El Rincón"
+show_downloads: true  # Sin comillas, ya que es un valor booleano
+remote_theme: "jekyll-theme-cayman"  # Asegúrate de que el nombre del tema sea correcto
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme  # Este plugin te permite utilizar temas remotos
