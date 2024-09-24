@@ -4,5 +4,3 @@ hr {
     background-color: #0fdb2a;
     margin: 20px 0;
   }
-
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
